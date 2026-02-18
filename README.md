@@ -1,4 +1,4 @@
-<h1 align="center">Fiza Khan</h1>
+<h1 align="center">FIZA KHAN</h1>
 
 <p align="center">
   Full Stack Developer • Exploring AI & Intelligent Systems
